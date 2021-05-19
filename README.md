@@ -1,4 +1,4 @@
-Linkedin bot to accept all the pending connections
+Bot for LinkedIn to accept all pending connection requests
 ==============================
 
 What Is This?
